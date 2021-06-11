@@ -1,3 +1,5 @@
+# Высшая Школа Экономики, Компьютерная лингвистика, 2021
+
 # Автоматическое упрощение текстов на русском языке с помощью seq2seq моделей
 
 ## Цель: 
@@ -12,3 +14,7 @@
 * Идентификация ошибок и объяснение их возможного появления
 
 [Презентация](https://docs.google.com/presentation/d/1kFR7gpSsdwxNUN7tBB6qnu8ueYrI_2J5xEymPqxBrMI/edit?usp=sharing)
+
+## Контакты
+e-mail: konovalovkirill27@gmail.com 
+telegram: @kirillknv
