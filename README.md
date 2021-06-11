@@ -13,7 +13,8 @@
 * Оценка реализованных систем 
 * Идентификация ошибок и объяснение их возможного появления
 
-[Презентация](https://docs.google.com/presentation/d/1kFR7gpSsdwxNUN7tBB6qnu8ueYrI_2J5xEymPqxBrMI/edit?usp=sharing)
+## Презентация
+[Ссылка на презентацию](https://docs.google.com/presentation/d/1kFR7gpSsdwxNUN7tBB6qnu8ueYrI_2J5xEymPqxBrMI/edit?usp=sharing)
 
 ## Контакты
 * e-mail: konovalovkirill27@gmail.com 
